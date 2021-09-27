@@ -14,7 +14,7 @@
                         <label for="exampleInputEmail1">Todo</label>
                         <input type="text" class="form-control"  aria-describedby="emailHelp" placeholder="" name="todo">
                         <button class="" type="submit">
-                            Button
+                            Save
                           </button>
                     </div>
                 </form>
